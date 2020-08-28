@@ -1,0 +1,11 @@
+metadata_version: 1
+name: LMDI-Colombia(1990-2017)
+description: Applies the LMDI decomposition analysis to identify factors that explain the change of ACI in Colombia
+authors:
+- name: Daniela Del Pilar Rojas Lozano
+  affiliations:
+  - name: Universidad de los Andes
+- name: 'Paulo M. De Oliveira-De Jesus '
+  affiliations:
+  - name: Universidad de los Andes
+corresponding_contributor: {}
